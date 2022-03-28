@@ -1,0 +1,18 @@
+141,Gastly,30,35,30,100,35,80,ghost,poison,Alevitate
+142,Haunter,45,50,45,115,55,95,ghost,poison,Alevitate
+143,Gengar,60,65,60,130,75,110,ghost,poison,Acursed body
+236,Corsola,65,55,95,65,95,35,water,rock,Aweak armor,Acursed body
+236,Corsola(Galarian),60,55,100,65,100,30,ghost,,Aweak armor,Acursed body
+106,Shedinja,1,90,45,30,30,40,bug,ghost,Awonder guard
+294,Sableye,50,75,75,65,65,50,dark,ghost,Akeen eye,Astall,Aprankster
+135,Duskull,20,40,90,30,90,25,ghost,,Alevitate,Afrisk
+136,Dusclops,40,70,130,60,130,25,ghost,Apressure,Afrisk
+124,Drifloon,90,50,34,60,44,70,ghost,flying,Aaftermath,Aunburden,Aflare boost
+125,Drifblim,150,80,44,90,54,80,ghost,flying,Aaftermath,Aunburden,Aflare boost
+137,Dusknoir,45,100,135,65,135,100,ghost,,Apressure,Afrisk
+081,Froslass,70,80,70,80,70,110,ice,ghost,Asnow cloak,Acursed body
+372,Rotom,50,50,77,95,77,91,electric,ghost,Alevitate
+327,Yamask,38,30,85,55,65,30,ghost,,Amummy
+327,Yamask(Galarian),38,55,85,30,65,30,ground,ghost,Awandering spirit
+328,Runerigus,58,95,145,50,105,30,ground,ghost,Awandering spirit
+329,Cofagrigus,58,50,145,95,105,30,ghost,,Amummy

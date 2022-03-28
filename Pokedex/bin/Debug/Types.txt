@@ -1,0 +1,2 @@
+Normal,Wfighting,Ighost,Nrock,Nsteel
+Fighting,

@@ -1,0 +1,12 @@
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\bin\Debug\ChoosePKMNTeam.exe.config
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\bin\Debug\ChoosePKMNTeam.exe
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\bin\Debug\ChoosePKMNTeam.pdb
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\bin\Debug\ChoosePKMNTeam.xml
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.vbprojAssemblyReference.cache
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.frmMain.resources
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.Resources.resources
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.vbproj.GenerateResource.cache
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.vbproj.CoreCompileInputs.cache
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.exe
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.xml
+C:\Users\Snake\OneDrive\Programs\ChoosePKMNTeam\ChoosePKMNTeam\obj\Debug\ChoosePKMNTeam.pdb
