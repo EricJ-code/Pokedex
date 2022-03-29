@@ -1,4 +1,4 @@
-This program was made by Eric J. Estadt (@Explosheep)(@explosheep_)
+This program was made by Eric J. Estadt (@ericjcode)
 Most sprites are from the original GameFreak pokemon games
 However not all were
 Turning pokeball on load screen was made by:

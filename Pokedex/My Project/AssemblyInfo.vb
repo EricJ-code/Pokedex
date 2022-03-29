@@ -10,7 +10,7 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Pokedex")>
 <Assembly: AssemblyDescription("This program is a recreation of the pokedex from GameFreak's pokemon. It has the ability to display the original 150 pokemon with their current stats.")>
-<Assembly: AssemblyCompany("By Explosheep")>
+<Assembly: AssemblyCompany("By EricJ-Code")>
 <Assembly: AssemblyProduct("Pokedex")>
 <Assembly: AssemblyCopyright("Copyright ©  2019")>
 <Assembly: AssemblyTrademark("")>
